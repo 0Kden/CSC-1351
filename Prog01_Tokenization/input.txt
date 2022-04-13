@@ -1,0 +1,1 @@
+As an example, an input file with the single sentence “She is earning a 6 figure salary, but it is less than $150k.” and an ignore file with the single word “but” would produce an output file with the following contents
